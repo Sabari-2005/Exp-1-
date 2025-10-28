@@ -7,9 +7,9 @@ To draw the UML diagram for ATM and Banking System.
 
 # SRS (Procedure):
 List of Programs:
-1. Launching the StarUML Software
+1.Launching the StarUML Software
 
-2. Selecting the Diagram Type
+2.Selecting the Diagram Type
 
 3.Create 6 Types of Diagrams:
 
