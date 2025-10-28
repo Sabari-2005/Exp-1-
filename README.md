@@ -11,7 +11,7 @@ List of Programs:
 
 2.Selecting the Diagram Type
 
-3.Create 6 Types of Diagrams:
+3.Create 6 Types of Diagrams Based on The Topic:
 
 i) Usecase Diagram
 
