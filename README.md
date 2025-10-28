@@ -26,7 +26,7 @@ v)Package Diagram
 vi)Sequence Diagram
 # DIAGRAMS:
 ## Usecase Diagram:
-<img width="953" height="743" alt="usecase1" src="https://github.com/user-attachments/assets/f1cb9f9b-1bf7-49bb-a503-8eb87c9815a8" />
+<img width="1213" height="802" alt="Screenshot 2025-10-28 151627" src="https://github.com/user-attachments/assets/c9a9905e-0926-4a79-bd0b-5e17398c08f1" />
 
 ## class Diagram:
 <img width="1203" height="714" alt="class1" src="https://github.com/user-attachments/assets/b147e3fb-7fcf-47b1-87a0-f4141117f8f4" />
